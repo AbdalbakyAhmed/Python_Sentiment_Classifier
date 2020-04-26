@@ -2,7 +2,7 @@
 Final Project of the course Python Functions, Files, and Dictionaries. 
 This course is part of the "Python 3 Programming Specialization" by University of Michigan.
 more information: https://www.coursera.org/learn/python-functions-files-dictionaries/
---
+
 ## Tasks:
 1. Building a sentiment classifier, which will detect how positive or negative each tweet is. 
 2. create a csv file, which contains columns for the Number of Retweets, Number of Replies, Positive Score (which is how many happy words are in the tweet), Negative Score (which is how many angry words are in the tweet), and the Net Score for each tweet. 
